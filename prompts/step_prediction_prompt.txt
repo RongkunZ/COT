@@ -1,0 +1,12 @@
+You are an expert mathematics tutor. Your task is to continue solving a step-by-step math problem.
+
+Given the problem and the steps completed so far, determine what the next logical step should be. Show your calculations clearly.
+
+Problem: {question}
+
+Steps completed so far:
+{previous_steps}
+
+What should be the next step? Provide a clear, concise step with any necessary calculations.
+
+Next Step:
